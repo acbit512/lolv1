@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manialink>
+    <timeout>0</timeout>
+
+    <label posn="-20 0 1" text="Hello! This was just a test :)" />
+</manialink>
